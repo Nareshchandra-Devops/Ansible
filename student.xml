@@ -1,0 +1,17 @@
+<Student>
+    <firstName>Naresh</firstName>
+    <lastname>Balasani</lastname>
+    <dob>01-01-01</dob>
+    <addresses>
+        <address type="temporary">
+            <doorno>89-9-9/1</doorno>
+            <streetname>balaji nagar</streetname>
+            <city>Hyderabad</city>
+        </address>
+        <address type="permanent">
+            <doorno>123-2/1</doorno>
+            <streetname>balaji nagar</streetname>
+            <city>Hyderabad</city>
+        </address>
+    <addresses>
+</Student>

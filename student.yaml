@@ -1,0 +1,17 @@
+- firstname: "Naresh Chandra"
+  lastname: "Balasani"
+  dod: "01-01-01"
+  adresses:
+  - type: permanent
+    doorno: 2-589,
+    streetname: Balaji nagar
+    city: Hyderabad
+  - type: temporary
+    doorno: 5-568
+    streetname: Balaji nagar
+    city: Hyderabad
+  skills:
+    os: Linux
+    ide: VSCode
+    CM: ansible
+
