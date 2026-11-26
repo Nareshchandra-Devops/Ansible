@@ -2,4 +2,4 @@
   hosts: local
   connection: local
   tasks:
-  - name: print helloo world
+  - name: print hello world
